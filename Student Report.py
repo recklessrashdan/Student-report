@@ -8,11 +8,10 @@ def total():
     return(total2)
 
 def multiply():
-    multiply2=(marks1+marks2+marks3/3)
+    multiply2=(marks1+marks2+marks3)/3
     return(multiply2)
 
 time.sleep(2)
-
 
 print("Student Mark Report")
 print("Total Marks-",total())
