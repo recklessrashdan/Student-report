@@ -13,6 +13,7 @@ def multiply():
 
 time.sleep(2)
 
+
 print("Student Mark Report")
 print("Total Marks-",total())
 print("Average Marks-",multiply())
